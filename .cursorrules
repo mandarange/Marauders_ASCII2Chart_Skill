@@ -1,0 +1,7 @@
+# Versioning Rule
+
+Whenever a functional change is made to the project (e.g., updating scripts like `capture_diagram.py`, adding features, fixing bugs, or updating `SKILL.md`) AND the build/test runs successfully, you MUST automatically increment the version number.
+
+- Check the `version` field in the YAML frontmatter of `SKILL.md`.
+- Increment the version appropriately (following semantic versioning, usually a patch bump e.g. from `1.0.0` to `1.0.1` for minor fixes/features).
+- Update the version field in `SKILL.md` before concluding the task.

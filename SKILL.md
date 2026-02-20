@@ -1,6 +1,7 @@
 ---
 name: ascii-to-diagram-skill
-description: Converts text-based ASCII art, system architectures, and flowcharts in Markdown documents into beautiful Mermaid.js-based PNG image captures.
+version: 1.0.0
+description: Converts text-based ASCII art, system architectures, and flowcharts in Markdown documents into beautiful Mermaid.js-based PNG image captures. Use when the user asks to convert ASCII art or text-based diagrams into images or Mermaid diagrams.
 ---
 # ASCII to Diagram Converter
 
